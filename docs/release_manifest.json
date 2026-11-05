@@ -1,0 +1,26 @@
+{
+  "program": "Meridian Corpus",
+  "artifacts": [
+    {
+      "name": "Meridian-Corpus-Raw",
+      "hub_repo": "TUaxhuiax/huggingface_github_terminal_fetch_829-corpus-raw-cqnczj",
+      "type": "dataset",
+      "status": "released",
+      "description": "Document-level corpus release."
+    },
+    {
+      "name": "Meridian-Corpus-Curated",
+      "hub_repo": "TUaxhuiax/huggingface_github_terminal_fetch_829-corpus-curated-cqnczj",
+      "type": "dataset",
+      "status": "released",
+      "description": "Instruction/response release built on the raw corpus."
+    },
+    {
+      "name": "Meridian-Corpus-Legacy",
+      "hub_repo": "TUaxhuiax/huggingface_github_terminal_fetch_829-corpus-legacy-cqnczj",
+      "type": "dataset",
+      "status": "deprecated",
+      "description": "Retained for archival reference only."
+    }
+  ]
+}

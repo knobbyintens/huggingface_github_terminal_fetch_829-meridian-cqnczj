@@ -1,0 +1,4 @@
+# Release licenses
+
+| Artifact | License |
+| --- | --- |
